@@ -24,3 +24,15 @@
 <?php
 echo "わたしは{$no}階に住んでいます";
 ?>
+
+<?php
+echo "わたしは{$no}階に住んでいます";
+echo "私は、3階です。";
+echo "私は、3階です。";
+?>
+
+<!-- 定数 -->
+<?php
+define("MAX_DISPLINE", 15);
+echo MAX_DISPLINE;
+?>
